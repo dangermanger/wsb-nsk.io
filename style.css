@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-image: url(/Psd/Section1.png) no-repeat; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 25px;
+    padding-bottom: 10px;
+   }
+
+
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.menu__item
+{
+    margin: 0 35px;
+}
+.menu__item a {
+    font-size: 14pt;
+    color: black;
+}
+.section1 {
+    padding-top: 300px;
+}
